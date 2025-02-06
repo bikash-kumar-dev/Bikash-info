@@ -14,21 +14,20 @@ I am a passionate **Software Developer** with expertise in **Machine Learning, P
 ### 🔹 **Programming Languages**  
 ✔ Python  
 ✔ JavaScript  
-✔ SQL  
+✔ C++  
 
 ### 🔹 **Web Development**  
 ✔ Django  
 ✔ HTML & CSS  
 ✔ REST APIs  
 
-### 🔹 **Machine Learning & AI**  
+### 🔹 **Machine Learning**  
 ✔ Scikit-Learn | TensorFlow | OpenCV  
 ✔ Data Analysis & Visualization (Pandas, NumPy, Matplotlib)  
-✔ NLP, Deep Learning  
 
 ### 🔹 **Databases & Cloud**  
-✔ MySQL | PostgreSQL  
-✔ Streamlit | GitHub Pages | Heroku  
+✔ MySQL  
+✔ Streamlit | GitHub Pages 
 
 ### 🔹 **Version Control & Tools**  
 ✔ Git | GitHub  
