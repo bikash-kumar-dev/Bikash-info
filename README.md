@@ -23,7 +23,7 @@ I am a passionate **Software Developer** with expertise in **Machine Learning, P
 
 ### 🔹 **Machine Learning**  
 ✔ Scikit-Learn | TensorFlow | OpenCV  
-✔ Data Analysis & Visualization (Pandas, NumPy, Matplotlib)  
+✔ Data Analysis & Visualization (Pandas, NumPy, Matplotlib, Seaborn)  
 
 ### 🔹 **Databases & Cloud**  
 ✔ MySQL  
